@@ -1,5 +1,5 @@
 ### Journal
-\[1]**Y.-T. Hou**, S.-Y. Yang, H., Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2025). Experimental and Numerical Study on the Aiming Strategy during Preheating of High-temperature Chloride Salt Receiver Prototype for the Next Generation Solar Power Tower. *Applied Thermal Engineering*, under review. 
+\[1]**Y.-T. Hou**, S.-Y. Yang, Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2025). Experimental and Numerical Study on the Aiming Strategy during Preheating of High-temperature Chloride Salt Receiver Prototype for the Next Generation Solar Power Tower. *Applied Thermal Engineering*, under review. 
 
 
 \[2]Feng, B., Sun, H., Gao, L., Guo, Z., Ai, Y., Zhang, Y., Pan, Z., Li, P., **Hou, Y.**, Ma, J., Xu, X., \& Deng, L. (2024). Pollutant Emission and Ash Accumulation Characteristics of Tri-Combustion of Coal, Biomass, and Oil Sludge. *Processes*, 12(12), 2804. [https://doi.org/10.3390/pr12122804](https://doi.org/10.3390/pr12122804).

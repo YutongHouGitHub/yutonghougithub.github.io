@@ -1,4 +1,8 @@
 ### Scholarships & Academic Awards
+**Servyou Excellence Scholarship (First Level)**, Xi'an Jiaotong University & Servyou Group, Awarded: Dec. 2025.
+
+**Outstanding Student**, Xi’an Jiaotong University, Awarded: Dec. 2025.
+
 **Academician Chen Xuejun Fund – Chen Xuejun & Yuan Danqing Inspirational Scholarship (2023–2024)**, National Key Laboratory of Green Hydrogen and Power (formerly State Key Laboratory of Multiphase Flow in Power Engineering), Awarded: Jul. 2025.
 
 **New Era Youth Pioneer**, Communist Youth League Committee of Xi’an Jiaotong University, Awarded: May 2025.

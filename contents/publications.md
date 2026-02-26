@@ -1,5 +1,5 @@
 ### Journal
-\[1]**Y.-T. Hou**, S.-Y. Yang, Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2026). Experimental and Numerical Study on the Aiming Strategy during Preheating of High-temperature Chloride Salt Receiver Prototype for the Next Generation Solar Power Tower. *Applied Thermal Engineering*, 292 (Part 1), 130229. [https://doi.org/10.1016/j.applthermaleng.2026.130229](https://doi.org/10.1016/j.applthermaleng.2026.130229). 
+\[1]**Y.-T. Hou**, S.-Y. Yang, Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2026). Experimental and numerical study on the aiming strategy during preheating of high-temperature chloride salt receiver prototype for the next generation solar power tower. *Applied Thermal Engineering*, 292 (Part 1), 130229. [https://doi.org/10.1016/j.applthermaleng.2026.130229](https://doi.org/10.1016/j.applthermaleng.2026.130229). 
 
 \[2]S.-Y. Yang, **Y.-T. Hou**, Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2026). Design and deployment of a novel three-channel clockwise and counterclockwise helical twisted tape for thermal performance enhancement of a next-generation chloride salt central receiver. *Applied Thermal Engineering*, under review. 
 

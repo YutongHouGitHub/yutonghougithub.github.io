@@ -10,7 +10,6 @@ School of Engineering, Westlake University, 2025.8
 State Key Laboratory of Internet of Things for Smart City, University of Macau, 2025.7 <br> 
 
 
-
 **2024 (1st) National Conference on Integration of Industry and Education in Energy Storage Science and Engineering**<br> 
 National Energy Storage Technology Industry–Education Integration Innovation Platform (Center), Xi’an Jiaotong University, 2024.10 <br> 
 

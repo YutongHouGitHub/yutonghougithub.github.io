@@ -7582,7 +7582,7 @@ textarea.form-control-lg {
 
 .my-3 {
   margin-top: 1rem !important;
-  margin-bottom: 1rem !important;
+  margin-bottom: 1rem !important;5
 }
 
 .my-4 {
@@ -10855,8 +10855,8 @@ html {
 
 aside,
 section {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .app-badge {

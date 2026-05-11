@@ -1,0 +1,46 @@
+<div style="display: flex; gap: 5%; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="static/assets/img/2.jpg" alt="1" style="width:95%;">
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="static/assets/img/1.jpg" alt="2" style="width:95%;">
+  </figure>
+
+</div>
+
+
+
+
+
+
+
+
+<div style="display: flex; gap: 5%; justify-content: center;">
+  <figure style="text-align: center;">
+    <img src="static/assets/img/3.jpg" alt="1" style="width:95%;">
+  </figure>
+
+  <figure style="text-align: center;">
+    <img src="static/assets/img/4.jpg" alt="2" style="width:95%;">
+  </figure>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div style="display: flex; gap: 5%; justify-content: center;">
+  <figure style="text-align: center; flex: 5.056;">
+    <img src="static/assets/img/7.jpg" alt="1" style="width:95%;">
+  </figure>
+
+  <figure style="text-align: center; flex: 1;">
+    <img src="static/assets/img/6.jpg" alt="2" style="width:95%;">
+  </figure>
+</div>

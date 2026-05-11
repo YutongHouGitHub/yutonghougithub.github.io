@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YutongHouGitHub/YutongHouGitHub)
+[![GitHub](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YutongHouGitHub/YutongHouGitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red?logo=linkedin)](https://www.linkedin.com/in/yutonghou2005)
 [![Email](https://img.shields.io/badge/Email-green?logo=gmail)](mailto:yutonghou@stu.xjtu.edu.cn)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp)](https://wa.me/008619137820536)

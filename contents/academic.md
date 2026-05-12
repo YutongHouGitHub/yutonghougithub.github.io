@@ -1,2 +1,2 @@
-**The 2025 Annual Conference of the Chinese Society of Engineering Thermophysics (CSET)** <br> 
-CSETP, Beijing, China, 2025.11
+**(Student) Member of the Chinese Society of Engineering Thermodynamics** <br> 
+CSET, Beijing, China, 2025-2030

@@ -6,4 +6,4 @@
 **[National Scholarship for Undergraduate and Graduate Students](http://www.moe.gov.cn/srcsite/A05/s7505/202412/t20241230_1172663.html)**, Ministry of Education of the People's Republic of China, Awarded: Dec. 2024.
 
 ### Awards
-**16th National College Student Mathematics Competition**, 1<sup>st</sup> Prize,*Chinese Mathematical Society*, Awarded: Dec. 2024.
+**16th National College Student Mathematics Competition**, 1<sup>st</sup> Prize, *Chinese Mathematical Society*, Awarded: Dec. 2024.

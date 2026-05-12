@@ -1,6 +1,5 @@
-**The 2025 Annual Conference of the Chinese Society of Engineering Thermophysics (CSETP)** <br> 
+**The 2025 Annual Conference of the Chinese Society of Engineering Thermophysics (CSET)** <br> 
 CSETP, Beijing, China, 2025.11
-
 
 **The 2025 Westlake International Symposium in Engineering** <br> 
 School of Engineering, Westlake University, 2025.8

@@ -1,27 +1,26 @@
 ### Journal
-\[1]**Y.-T. Hou**, S.-Y. Yang, Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2026). Experimental and numerical study on the aiming strategy during preheating of high-temperature chloride salt receiver prototype for the next generation solar power tower. *Applied Thermal Engineering*, 292 (Part 1), 130229. [https://doi.org/10.1016/j.applthermaleng.2026.130229](https://doi.org/10.1016/j.applthermaleng.2026.130229). 
+\[1]**Y.-T. Hou** et al. (2026). Experimental and numerical study on the aiming strategy during preheating of high-temperature chloride salt receiver prototype for the next generation solar power tower. *Appl. Therm. Eng.*, 292 (Part 1), 130229. [URL](https://doi.org/10.1016/j.applthermaleng.2026.130229). 
 
-\[2]S.-Y. Yang, **Y.-T. Hou**, Z.-D. Cheng, X.-Z. Zhang,\& Y.-L. He. (2026). Design and deployment of a novel three-channel clockwise and counterclockwise helical twisted tape for thermal performance enhancement of a next-generation chloride salt central receiver. *Applied Thermal Engineering*, under review. 
+\[2]S.-Y. Yang, **Y.-T. Hou** et al. (2026). Design and deployment of a novel three-channel clockwise and counterclockwise helical twisted tape for thermal performance enhancement of a next-generation chloride salt central receiver. *Appl. Therm. Eng.*, under review. 
 
 
-\[3]Feng, B., Sun, H., Gao, L., Guo, Z., Ai, Y., Zhang, Y., Pan, Z., Li, P., **Hou, Y.**, Ma, J., Xu, X., \& Deng, L. (2024). Pollutant Emission and Ash Accumulation Characteristics of Tri-Combustion of Coal, Biomass, and Oil Sludge. *Processes*, 12(12), 2804. [https://doi.org/10.3390/pr12122804](https://doi.org/10.3390/pr12122804).
+\[3]Feng, B., ..., **Hou, Y.** et al. (2024). Pollutant Emission and Ash Accumulation Characteristics of Tri-Combustion of Coal, Biomass, and Oil Sludge. *Processes*, 12(12), 2804. [URL](https://doi.org/10.3390/pr12122804).
 
-\[4]Yang S., Zhang X.,Cheng Z.,**Hou Y.** \& Jiang R.(2025).Experimental study on steady-state thermal performance of a kilowatt-scale chloride salt receiver prototype. *Journal of Thermal Science and Technology*, (04),425-435. [https://doi.org/10.13738/j.issn.1671-8097.025099](https://doi.org/10.13738/j.issn.1671-8097.025099).
+\[4]Yang S., Zhang X.,Cheng Z.,**Hou Y.** et al.(2025).Experimental study on steady-state thermal performance of a kilowatt-scale chloride salt receiver prototype. *J. Therm. Sci. and Technol.*, (04),425-435. [URL](https://doi.org/10.13738/j.issn.1671-8097.025099).
 
 ### Conference
 
-\[5]**Hou Y.**, Yang S., Zhang Y.,Cheng Z., \& Zhang X. (2025). Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up. Paper accepted for presentation at the Annual Conference of the Chinese Society of Engineering Thermophysics (CSET), Beijing, China. Paper ID: 253742.
+\[5]**Hou Y.** et al. (2025). Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up. *CSET Annual Conference*, Beijing, China. Paper ID: 253742.
 
 ### Patent
 
-\[6]Deng, L., Yan, R., Ye, N., **Hou, Y.**, Ma, J., Xu, X., \& Che, D. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids* (China Patent Application No. 202411891549.4). Granted.
+\[6]Deng, L., Yan, R., Ye, N., **Hou, Y.** et al. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids* .China Patent 202411891549.4. Granted.
 
-\[7]Zhou, X., Hu, B., **Hou, Y.**, Yi, W., Gao, R., \& Chen, W. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge–discharge monitoring* (China Patent Application No. 202520770158.0).
+\[7]Zhou, X., Hu, B., **Hou, Y.** et al. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge–discharge monitoring*. China Patent 202520770158.0.
 
-\[8]Yang, S., Zhang, X., **Hou, Y.**, Chang, L., Chang, T., \& Ren, P. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity* (China Patent Application No. 202511283030.2).
+\[8]Yang, S., Zhang, X., **Hou, Y.** et al. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity* .China Patent 202511283030.2.
 
-\[9]Zhang, Y., **Hou, Y.**, Cheng, Z., Yang, S., \& Zhang, X. (2026). *Coupled validation and optimization of the aiming strategy for
-cold start-up of high-temperature molten-salt receivers* (China Patent Application No. 2026031301550570).
+\[9]Zhang, Y., **Hou, Y.**et al. (2026). *Coupled validation and optimization of the aiming strategy for cold start-up of high-temperature molten-salt receivers* .China Patent 2026031301550570.
 ### Software
 
-\[10]**Hou Y.**, Yang S., Cheng Z.,Zhang X.,Zhang Y., \& Jiang R. (2026).  A Three-Dimensional Transient Thermal-Mechanical Coupled Numerical Software (3-DTTMCN Software).(Version 1.0). Software copyright registration No. 2026SR0352167
+\[10]**Hou Y.** et al. (2026). 3‑D Transient Thermal‑Mechanical Coupled Numerical Software (3‑DTTMCN), v1.0. Reg. No. 2026SR0352167.

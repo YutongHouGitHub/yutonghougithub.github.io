@@ -10,7 +10,7 @@
 
 ### Conference
 
-\[5]**Hou Y.**, Yang S., Zhang Y.,Cheng Z., \& Zhang X. (2025, Oct. 30–Nov. 3). Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up. Paper accepted for presentation at the Annual Conference of the Chinese Society of Engineering Thermophysics (CSETP), Beijing, China. Paper ID: 253742.
+\[5]**Hou Y.**, Yang S., Zhang Y.,Cheng Z., \& Zhang X. (2025). Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up. Paper accepted for presentation at the Annual Conference of the Chinese Society of Engineering Thermophysics (CSET), Beijing, China. Paper ID: 253742.
 
 ### Patent
 
@@ -20,6 +20,8 @@
 
 \[8]Yang, S., Zhang, X., **Hou, Y.**, Chang, L., Chang, T., \& Ren, P. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity* (China Patent Application No. 202511283030.2).
 
+\[9]Zhang, Y., **Hou, Y.**, Cheng, Z., Yang, S., \& Zhang, X. (2026). *Coupled validation and optimization of the aiming strategy for
+cold start-up of high-temperature molten-salt receivers* (China Patent Application No. 2026031301550570).
 ### Software
 
-\[9]**Hou Y.**, Yang S., Cheng Z.,Zhang X.,Zhang Y., \& Jiang R. (2025).  A Three-Dimensional Transient Thermal-Mechanical Coupled Numerical Software (3-DTTMCN Software). 
+\[10]**Hou Y.**, Yang S., Cheng Z.,Zhang X.,Zhang Y., \& Jiang R. (2026).  A Three-Dimensional Transient Thermal-Mechanical Coupled Numerical Software (3-DTTMCN Software).(Version 1.0). Software copyright registration No. 2026SR0352167

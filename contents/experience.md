@@ -3,7 +3,7 @@
 
 Research on Carbon Reduction Power Generation Technology of Sandy Willow Biomass Coupled with Coal-Fired Units
 
-### **Project Leader**
+### **Research Intern**  
 **May 2025 – May 2026 | [Key Laboratory of Thermo-Fluid Science and Engineering of Ministry of Education](https://thermofluid.xjtu.edu.cn/)**  
 
 National Training Program of Innovation and Entrepreneurship for Undergraduates, funded by the Ministry of Education of China with a grant of RMB 8,000.

@@ -15,13 +15,13 @@
 
 \[P1]Yang, Zhang, **Hou** et al. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity* .China Patent 202511283030.2.
 
-\[J2]Yang, **Hou** et al. (2026). “Design and deployment of a novel helical twisted tape for enhanced thermal performance of a next-generation chloride salt central receiver. *Appl. Therm. Eng.*, under review. [URL]{https://worldwide.espacenet.com/patent/search/family/098090131/publication/CN121189220A?q=pn%3DCN121189220A}
+\[J2]Yang, **Hou** et al. (2026). “Design and deployment of a novel helical twisted tape for enhanced thermal performance of a next-generation chloride salt central receiver. *Appl. Therm. Eng.*, under review. [URL](https://worldwide.espacenet.com/patent/search/family/098090131/publication/CN121189220A?q=pn%3DCN121189220A)
 
 ### Coal‑Biomass Co‑firing of Power Grid Peak-shaving
 
 \[J1]Feng, ..., **Hou** et al. (2024). Pollutant Emission and Ash Accumulation Characteristics of Tri-Combustion of Coal, Biomass, and Oil Sludge. *Processes*, 12(12), 2804. [URL](https://doi.org/10.3390/pr12122804).
 
-\[P1]Deng, Yan, Ye, **Hou** et al. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids* .China Patent 202411891549.4. Granted.[URL]{https://worldwide.espacenet.com/patent/search/family/095027257/publication/CN119695982B?q=pn%3DCN119695982B}
+\[P1]Deng, Yan, Ye, **Hou** et al. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids* .China Patent 202411891549.4. Granted.[URL](https://worldwide.espacenet.com/patent/search/family/095027257/publication/CN119695982B?q=pn%3DCN119695982B)
 
 
 
@@ -30,4 +30,4 @@
 
 ### Vanadium Flow Battery for Long Time Energy Storage
 
-\[P1]Zhou, Hu, **Hou** et al. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge–discharge monitoring*. China Patent 202520770158.0.[URL]{https://worldwide.espacenet.com/patent/search/family/098855865/publication/CN223956581U?q=pn%3DCN223956581U}
+\[P1]Zhou, Hu, **Hou** et al. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge–discharge monitoring*. China Patent 202520770158.0.[URL](https://worldwide.espacenet.com/patent/search/family/098855865/publication/CN223956581U?q=pn%3DCN223956581U)

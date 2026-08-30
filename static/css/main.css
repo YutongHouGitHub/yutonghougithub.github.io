@@ -2,7 +2,56 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color: #2f496d;
+    --h-link-color: #7a2d3d;
+    --h-link-hover-color: #5e2131;
+    --h-body-font-family: "Times New Roman", Times, serif;
+    --bs-blue: var(--h-title-color);
+    --bs-primary: var(--h-title-color);
+    --bs-link-color: var(--h-link-color);
+    --bs-link-hover-color: var(--h-link-hover-color);
+    --bs-nav-link-color: var(--h-title-color);
+    --bs-body-font-family: var(--h-body-font-family);
+}
+
+body {
+    font-family: var(--h-body-font-family);
+    text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.display-3, .display-4,
+.navbar-brand,
+.nav-link,
+section header h2,
+section .main-body,
+section .main-body p,
+section .main-body li,
+section .main-body div,
+#top-section-bg-text,
+.font-alt,
+#mainNav .navbar-brand,
+#mainNav .navbar-nav .nav-item .nav-link,
+#mainNav .navbar-toggler,
+strong,
+b,
+.fw-bold,
+.fw-bolder,
+.font-weight-bold {
+    font-family: var(--h-body-font-family) !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.display-3, .display-4,
+strong,
+b,
+.fw-bold,
+.fw-bolder,
+.font-weight-bold {
+    letter-spacing: 0.02em;
+    line-height: 1.2;
 }
 
 .header {
@@ -42,16 +91,34 @@
 }
 
 section header h2{
-    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+    font-family: var(--h-body-font-family) !important;
     color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
 }
 
 section .main-body{
+    font-family: var(--h-body-font-family);
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
+    text-align: justify;
+}
+
+section .main-body p,
+section .main-body li,
+section .main-body div {
+    text-align: justify;
+}
+
+nav a,
+a {
+    color: var(--h-link-color);
+}
+
+nav a:hover,
+a:hover {
+    color: var(--h-link-hover-color);
 }
 
 

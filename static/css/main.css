@@ -111,6 +111,22 @@ section .main-body div {
     text-align: justify;
 }
 
+#publications-md details {
+    margin-bottom: 1rem;
+}
+
+#publications-md .publication-summary {
+    color: var(--h-title-color);
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+    padding: 0.25rem 0;
+}
+
+#publications-md details[open] .publication-summary {
+    margin-bottom: 0.75rem;
+}
+
 nav a,
 a {
     color: var(--h-link-color);

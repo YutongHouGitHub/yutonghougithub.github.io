@@ -2,6 +2,30 @@ const content_dir = 'contents/'
 const config_file = 'config.yml'
 const section_names = ['home', 'education', 'awards', 'experience', 'publications', 'academic', 'media'];
 
+function makePublicationsCollapsible(container) {
+    const headings = Array.from(container.querySelectorAll(':scope > h3'));
+
+    headings.forEach(heading => {
+        const details = document.createElement('details');
+        const summary = document.createElement('summary');
+        const content = document.createDocumentFragment();
+
+        summary.className = 'publication-summary';
+        summary.innerHTML = heading.innerHTML;
+        details.appendChild(summary);
+
+        let sibling = heading.nextSibling;
+        while (sibling && sibling !== headings[headings.indexOf(heading) + 1]) {
+            const nextSibling = sibling.nextSibling;
+            content.appendChild(sibling);
+            sibling = nextSibling;
+        }
+
+        details.appendChild(content);
+        heading.replaceWith(details);
+    });
+}
+
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -53,7 +77,11 @@ window.addEventListener('DOMContentLoaded', event => {
             .then(response => response.text())
             .then(markdown => {
                 const html = marked.parse(markdown);
-                document.getElementById(name + '-md').innerHTML = html;
+                const container = document.getElementById(name + '-md');
+                container.innerHTML = html;
+                if (name === 'publications') {
+                    makePublicationsCollapsible(container);
+                }
             }).then(() => {
                 // MathJax
                 MathJax.typeset();

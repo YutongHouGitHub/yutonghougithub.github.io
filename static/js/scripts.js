@@ -9,7 +9,8 @@ const ui_translations = {
     'zh-TW': { nav: { home: '首頁', education: '教育經歷', awards: '獲獎經歷', experience: '工作經歷', publications: '發表成果', academic: '學術活動', media: '媒體報導' }, footer: { github: 'Github', license: '授權條款' }, switchLanguage: '切換語言' },
     fr: { nav: { home: 'ACCUEIL', education: 'FORMATION', awards: 'DISTINCTIONS', experience: 'EXPÉRIENCE', publications: 'PUBLICATIONS', academic: 'ACTIVITÉS ACADÉMIQUES', media: 'MÉDIAS' }, footer: { github: 'Github', license: 'Licence' }, switchLanguage: 'Changer de langue' }
 };
-let current_language = localStorage.getItem('homepage-language') || default_language;
+const requested_language = new URLSearchParams(window.location.search).get('lang');
+let current_language = requested_language || localStorage.getItem('homepage-language') || default_language;
 if (!languages.includes(current_language)) current_language = default_language;
 
 function getLocalizedPath(name) {
@@ -36,7 +37,10 @@ function applyLanguageUi() {
 
 function loadLanguage() {
     applyLanguageUi();
-    const configRequest = fetch(getLocalizedPath(config_file)).then(response => response.text());
+    const configRequest = fetch(getLocalizedPath(config_file)).then(response => {
+        if (!response.ok) throw new Error(`Unable to load ${getLocalizedPath(config_file)} (${response.status})`);
+        return response.text();
+    });
     configRequest.then(text => {
         const yml = jsyaml.load(text);
         Object.keys(yml).forEach(key => {
@@ -47,7 +51,10 @@ function loadLanguage() {
 
     section_names.forEach(name => {
         fetch(getLocalizedPath(name + '.md'))
-            .then(response => response.text())
+            .then(response => {
+                if (!response.ok) throw new Error(`Unable to load ${getLocalizedPath(name + '.md')} (${response.status})`);
+                return response.text();
+            })
             .then(markdown => {
                 const container = document.getElementById(name + '-md');
                 container.innerHTML = marked.parse(markdown);
@@ -114,7 +121,6 @@ window.addEventListener('DOMContentLoaded', event => {
         option.addEventListener('click', () => {
             current_language = option.dataset.language;
             localStorage.setItem('homepage-language', current_language);
-            loadLanguage();
         });
     });
     loadLanguage();

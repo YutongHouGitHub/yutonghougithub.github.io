@@ -2,4 +2,4 @@
 March 21, 2025 · Qian Xuesen College, Xi’an Jiaotong University
 
 ### Student Ambassador for Studying in  France: [Studying Dairy](https://mp.weixin.qq.com/s/fppL-GZcZ9sKAMbZhTbnyg)
-Feb 25, 2026 · Campus France （French Ambassador in China）
+Feb 25, 2026 · Campus France (French Ambassador in China)

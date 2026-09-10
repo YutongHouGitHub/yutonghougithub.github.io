@@ -83,6 +83,16 @@
     <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
             <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
+            <div class="language-switcher dropdown">
+                <button class="btn btn-sm dropdown-toggle" type="button" id="languageButton" data-bs-toggle="dropdown"
+                    aria-expanded="false" aria-label="Switch language">EN</button>
+                <ul class="dropdown-menu" aria-labelledby="languageButton">
+                    <li><button class="dropdown-item language-option" type="button" data-language="en">English</button></li>
+                    <li><button class="dropdown-item language-option" type="button" data-language="zh-CN">简体中文</button></li>
+                    <li><button class="dropdown-item language-option" type="button" data-language="zh-TW">繁體中文</button></li>
+                    <li><button class="dropdown-item language-option" type="button" data-language="fr">Français</button></li>
+                </ul>
+            </div>
             <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -92,25 +102,25 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#home">HOME</a>
+                        <a class="nav-link me-lg-3" href="#home" data-i18n="nav.home">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#education">EDUCATION</a>
+                        <a class="nav-link me-lg-3" href="#education" data-i18n="nav.education">EDUCATION</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
+                        <a class="nav-link me-lg-3" href="#awards" data-i18n="nav.awards">AWARDS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#experience">EXPERIENCE</a>
+                        <a class="nav-link me-lg-3" href="#experience" data-i18n="nav.experience">EXPERIENCE</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
+                        <a class="nav-link me-lg-3" href="#publications" data-i18n="nav.publications">PUBLICATIONS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#academic">ACADEMIC</a>
+                        <a class="nav-link me-lg-3" href="#academic" data-i18n="nav.academic">ACADEMIC</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#media">MEDIA</a>
+                        <a class="nav-link me-lg-3" href="#media" data-i18n="nav.media">MEDIA</a>
                     </li>
                 </ul>
             </div>
@@ -151,7 +161,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="education">
         <div class="container px-5">
             <header>
-                <h2 id="education-subtitle"><i class="bi bi-arrow-down-right-square"></i>EDUCATION </h2>
+                <h2 id="education-subtitle"><i class="bi bi-arrow-down-right-square"></i><span data-i18n="nav.education">EDUCATION</span></h2>
             </header>
             <div class="main-body" id="education-md"></div>
 
@@ -163,7 +173,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
         <div class="container px-5">
             <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
+                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i><span data-i18n="nav.awards">AWARDS</span></h2>
             </header>
             <div class="main-body" id="awards-md"></div>
 
@@ -175,7 +185,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="experience">
         <div class="container px-5">
             <header>
-                <h2 id="experience-subtitle"><i class="bi bi-briefcase-fill"></i> EXPERIENCE </h2>
+                <h2 id="experience-subtitle"><i class="bi bi-briefcase-fill"></i><span data-i18n="nav.experience">EXPERIENCE</span></h2>
             </header>
             <div class="main-body" id="experience-md"></div>
         </div>
@@ -186,7 +196,7 @@
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="publications">
         <div class="container px-5">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;<span data-i18n="nav.publications">PUBLICATIONS</span></h2>
             </header>
             <div class="main-body" id="publications-md"></div>
 
@@ -198,7 +208,7 @@
 <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="academic">
     <div class="container px-5">
         <header>
-            <h2 id="media-subtitle"><i class="bi bi-camera-reels-fill"></i>&nbsp;ACADEMIC</h2>
+            <h2 id="academic-subtitle"><i class="bi bi-mortarboard-fill"></i>&nbsp;<span data-i18n="nav.academic">ACADEMIC</span></h2>
         </header>
         <div class="main-body" id="academic-md"></div>
     </div>
@@ -208,7 +218,7 @@
 <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="media">
     <div class="container px-5">
         <header>
-            <h2 id="media-subtitle"><i class="bi bi-camera-reels-fill"></i>&nbsp;MEDIA</h2>
+            <h2 id="media-subtitle"><i class="bi bi-camera-reels-fill"></i>&nbsp;<span data-i18n="nav.media">MEDIA</span></h2>
         </header>
         <div class="main-body" id="media-md"></div>
     </div>
@@ -219,9 +229,9 @@
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/YutongHouGitHub/YutongHouGitHub">Github</a>
+                <a id="github-link" href="https://github.com/YutongHouGitHub/YutongHouGitHub" data-i18n="footer.github">Github</a>
                 <span class="mx-1">&middot;</span>
-                <a id="license-link"
+                <a id="license-link" data-i18n="footer.license"
                     href="https://github.com/YutongHouGitHub/YutongHouGitHub">License</a>
             </div>
         </div>

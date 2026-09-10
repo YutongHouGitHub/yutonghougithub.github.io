@@ -137,6 +137,27 @@ a:hover {
     color: var(--h-link-hover-color);
 }
 
+.language-switcher {
+    margin-right: 1rem;
+}
+
+.language-switcher .btn {
+    color: var(--h-title-color);
+    border: 1px solid var(--h-title-color);
+    font-family: var(--h-body-font-family);
+}
+
+.language-switcher .dropdown-menu {
+    min-width: 8rem;
+}
+
+@media screen and (max-width: 991px) {
+    .language-switcher {
+        margin-left: auto;
+        margin-right: 0.75rem;
+    }
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;

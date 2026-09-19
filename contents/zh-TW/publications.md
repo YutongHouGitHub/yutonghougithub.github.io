@@ -1,6 +1,6 @@
 [J]——期刊；[C]——會議；[P]——專利；[S]——軟體
 
-### 下一代太陽能塔式接收器預熱過程
+### 下一代太陽能塔式吸熱器預熱過程
 
 \[C1] **Hou** 等（2025）。*Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up*。*CSET Annual Conference*，中國北京。論文編號：253742。
 
@@ -10,7 +10,7 @@
 
 \[S1] **Hou** 等（2026）。*3-D Transient Thermal-Mechanical Coupled Numerical Software (3-DTTMCN)*，v1.0。登記號：2026SR0352167。
 
-### 高溫氯鹽接收器傳熱
+### 高溫氯鹽吸熱器傳熱
 
 \[J1] Yang、Zhang、Cheng、**Hou** 等（2025）。*Experimental study on steady-state thermal performance of a kilowatt-scale chloride salt receiver prototype*。*J. Therm. Sci. and Technol.*，（04），425-435。[連結](https://doi.org/10.13738/j.issn.1671-8097.025099)。
 

@@ -1,6 +1,6 @@
 [J]——期刊；[C]——会议；[P]——专利；[S]——软件
 
-### 下一代太阳能塔式接收器预热过程
+### 下一代太阳能塔式吸热器预热过程
 
 \[C1] **Hou** 等（2025）。*Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up*。*CSET Annual Conference*，中国北京。论文编号：253742。
 
@@ -10,7 +10,7 @@
 
 \[S1] **Hou** 等（2026）。*3-D Transient Thermal-Mechanical Coupled Numerical Software (3-DTTMCN)*，v1.0。登记号：2026SR0352167。
 
-### 高温氯盐接收器传热
+### 高温氯盐吸热器传热
 
 \[J1] Yang、Zhang、Cheng、**Hou** 等（2025）。*Experimental study on steady-state thermal performance of a kilowatt-scale chloride salt receiver prototype*。*J. Therm. Sci. and Technol.*，（04），425-435。[链接](https://doi.org/10.13738/j.issn.1671-8097.025099)。
 

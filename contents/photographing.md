@@ -1,6 +1,6 @@
 ## Photography Portfolio
 
-I enjoy capturing the world through a lens — street scenes, landscapes, travel moments, and small details that carry emotion and atmosphere.
+
 
 ### Selected Works
 

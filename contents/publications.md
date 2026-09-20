@@ -1,6 +1,6 @@
 [J] -- Journal; [C] -- Conference; [P] -- Patent; [S] -- Software
 
-### Next-Generation Solar Power Tower Receiver Preheating Process
+### Heat Transfer
 
 \[C1] **Hou** et al. (2025). Thermal-mechanical coupling and aiming strategy of high-temperature chloride salt solar receiver during cold start-up. *CSET Annual Conference*, Beijing, China. Paper ID: 253742.
 
@@ -10,20 +10,18 @@
 
 \[S1] **Hou** et al. (2026). 3-D Transient Thermal-Mechanical Coupled Numerical Software (3-DTTMCN), v1.0. Reg. No. 2026SR0352167.
 
-### Heat Transfer of High-Temperature Chloride Salt Receiver
+\[J2] Yang, Zhang, Cheng, **Hou** et al. (2025). Experimental study on steady-state thermal performance of a kilowatt-scale chloride salt receiver prototype. *J. Therm. Sci. and Technol.*, (04), 425-435. [URL](https://doi.org/10.13738/j.issn.1671-8097.025099).
 
-\[J1] Yang, Zhang, Cheng, **Hou** et al. (2025). Experimental study on steady-state thermal performance of a kilowatt-scale chloride salt receiver prototype. *J. Therm. Sci. and Technol.*, (04), 425-435. [URL](https://doi.org/10.13738/j.issn.1671-8097.025099).
+\[P2] Yang, Zhang, **Hou** et al. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity*. China Patent 202511283030.2. [URL](https://worldwide.espacenet.com/patent/search/family/098090131/publication/CN121189220A?q=pn%3DCN121189220A).
 
-\[P1] Yang, Zhang, **Hou** et al. (2025). *A heat transfer enhancement design method for solar absorbers based on effective flow absorptivity*. China Patent 202511283030.2. [URL](https://worldwide.espacenet.com/patent/search/family/098090131/publication/CN121189220A?q=pn%3DCN121189220A).
+\[J3] Yang, **Hou** et al. (2026). Design and deployment of a novel helical twisted tape for enhanced thermal performance of a next-generation chloride salt central receiver. *Appl. Therm. Eng.*, under review.
 
-\[J2] Yang, **Hou** et al. (2026). Design and deployment of a novel helical twisted tape for enhanced thermal performance of a next-generation chloride salt central receiver. *Appl. Therm. Eng.*, under review.
-
-### Coal-Biomass Co-Firing of Power Grid Peak-Shaving
+### Combustion
 
 \[J1] Feng, ..., **Hou** et al. (2024). Pollutant Emission and Ash Accumulation Characteristics of Tri-Combustion of Coal, Biomass, and Oil Sludge. *Processes*, 12(12), 2804. [URL](https://doi.org/10.3390/pr12122804).
 
 \[P1] Deng, Yan, Ye, **Hou** et al. (2024). *A coal and biomass co-firing peak-shaving system and method for power grids*. China Patent 202411891549.4. Granted. [URL](https://worldwide.espacenet.com/patent/search/family/095027257/publication/CN119695982B?q=pn%3DCN119695982B).
 
-### Vanadium Flow Battery for Long-Time Energy Storage
+### Energy Storage
 
 \[P1] Zhou, Hu, **Hou** et al. (2025). *A vanadium redox flow battery capacity recovery device based on automatic control of online charge-discharge monitoring*. China Patent 202520770158.0. [URL](https://worldwide.espacenet.com/patent/search/family/098855865/publication/CN223956581U?q=pn%3DCN223956581U).

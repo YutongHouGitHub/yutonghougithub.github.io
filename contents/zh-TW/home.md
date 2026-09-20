@@ -1,3 +1,3 @@
 電子郵件：[yutonghou(at)stu(dot)xjtu(dot)edu(dot)cn](mailto:yutonghou@stu.xjtu.edu.cn)；地址：1 Rue Joliot-Curie, Gif-sur-Yvette, 91190, France<br>
 
-侯雨彤於2005年8月出生於中國開封，目前是中國[西安交通大學](https://en.xjtu.edu.cn/) [錢學森學院](https://bjb.xjtu.edu.cn/) 的本科生，同時在法國[中央理工-高等電力學院](https://www.centralesupelec.fr/)和[巴黎-薩克雷大學](https://www.universite-paris-saclay.fr/)學習。他是[中國工程熱物理學會](https://cset.kejie.org.cn/)的學生會員，研究方向包括儲能、太陽能、最佳化與工程研究等領域。閒暇時喜歡打乒乓球、攝影，也喜歡周遊世界。
+侯雨彤於2005年8月出生於中國開封，目前是中國[西安交通大學](https://en.xjtu.edu.cn/) [錢學森學院](https://bjb.xjtu.edu.cn/) 的本科生，同時在法國[中央理工-高等電力學院](https://www.centralesupelec.fr/)和[巴黎-薩克雷大學](https://www.universite-paris-saclay.fr/)學習。他是[中國工程熱物理學會](https://cset.kejie.org.cn/)的學生會員，研究方向包括儲能、太陽能、最佳化與工程研究等領域。閒暇時喜歡打乒乓球、[攝影](photographing.html)，也喜歡周遊世界。

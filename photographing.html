@@ -246,23 +246,23 @@
     </div>
 
     <script>
-        // Edit only the content here. Keep all cover images in the same landscape ratio.
+        // Edit only the content here. In each album, list portrait photos first,
+        // followed by landscape photos. Keep all cover images in the same landscape ratio.
         const works = [
             {
                 title: 'Hong Kong',
                 location: 'Jul-Aug, 2026',
                 cover: 'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/cover.JPG',
                 images: [
-                    'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/26July_Hong%20Kong,%20China2..JPG',
                     'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/DSC00104.JPG',
                     'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/DSC00112.JPG',
                     'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/DSC00197.JPG',
-                    'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/DSC00201.JPG',
                     'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/DSC00207.JPG',
+                    'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/26July_Hong%20Kong,%20China2..JPG',
+                    'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/DSC00201.JPG',
                     'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/26Aug_Hong%20Kong,%20China.JPG',
                     'static/assets/Hong%20Kong%20Jul,%20Aug,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Shenzhen, China',
@@ -273,8 +273,7 @@
                     'static/assets/Shenzhen%20Jul,%202026/DSC00259.JPG',
                     'static/assets/Shenzhen%20Jul,%202026/DSC00264.JPG',
                     'static/assets/Shenzhen%20Jul,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Hangzhou, China',
@@ -289,22 +288,20 @@
                     'static/assets/Hangzhou%20Aug,%202026/DSC00425.JPG',
                     'static/assets/Hangzhou%20Aug,%202026/DSC00447.JPG',
                     'static/assets/Hangzhou%20Aug,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Dubai, UAE',
                 location: 'Aug, 2026',
                 cover: 'static/assets/Dubai%20Aug,%202026/cover.JPG',
                 images: [
-                    'static/assets/Dubai%20Aug,%202026/DSC00493.JPG',
                     'static/assets/Dubai%20Aug,%202026/DSC00528.JPG',
+                    'static/assets/Dubai%20Aug,%202026/DSC00576.JPG',
+                    'static/assets/Dubai%20Aug,%202026/DSC00493.JPG',
                     'static/assets/Dubai%20Aug,%202026/DSC00556.JPG',
                     'static/assets/Dubai%20Aug,%202026/DSC00573.JPG',
-                    'static/assets/Dubai%20Aug,%202026/DSC00576.JPG',
                     'static/assets/Dubai%20Aug,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Düsseldorf, Germany',
@@ -313,27 +310,26 @@
                 images: [
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00645.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00657.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC00675.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00703.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00704.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC00712.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00719.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC00736.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC00758.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC01227.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC01236.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC01251.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC01265.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC00675.JPG',
+                    'static/assets/Dusseldorf%20Sep,%202026/DSC00712.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00726.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00730.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC00734.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC00736.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC00758.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC01057.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC01223.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC01227.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC01236.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC01248.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC01251.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/DSC01255.JPG',
-                    'static/assets/Dusseldorf%20Sep,%202026/DSC01265.JPG',
                     'static/assets/Dusseldorf%20Sep,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Cologne, Germany',
@@ -344,17 +340,16 @@
                     'static/assets/Cologne%20Sep,%202026/DSC01290.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01299.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01310.JPG',
-                    'static/assets/Cologne%20Sep,%202026/DSC01314.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01321.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01323.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01333.JPG',
-                    'static/assets/Cologne%20Sep,%202026/DSC01338.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01351.JPG',
-                    'static/assets/Cologne%20Sep,%202026/DSC01358.JPG',
                     'static/assets/Cologne%20Sep,%202026/DSC01361.JPG',
+                    'static/assets/Cologne%20Sep,%202026/DSC01314.JPG',
+                    'static/assets/Cologne%20Sep,%202026/DSC01338.JPG',
+                    'static/assets/Cologne%20Sep,%202026/DSC01358.JPG',
                     'static/assets/Cologne%20Sep,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Bonn, Germany',
@@ -362,15 +357,14 @@
                 cover: 'static/assets/Bonn%20Sep,%202026/cover.JPG',
                 images: [
                     'static/assets/Bonn%20Sep,%202026/26Sep_Bonn,%20Germany.JPG',
-                    'static/assets/Bonn%20Sep,%202026/DSC01376.JPG',
                     'static/assets/Bonn%20Sep,%202026/DSC01380.JPG',
-                    'static/assets/Bonn%20Sep,%202026/DSC01383.JPG',
                     'static/assets/Bonn%20Sep,%202026/DSC01394.JPG',
                     'static/assets/Bonn%20Sep,%202026/DSC01400.JPG',
+                    'static/assets/Bonn%20Sep,%202026/DSC01376.JPG',
+                    'static/assets/Bonn%20Sep,%202026/DSC01383.JPG',
                     'static/assets/Bonn%20Sep,%202026/DSC01403.JPG',
                     'static/assets/Bonn%20Sep,%202026/cover.JPG'
-                ],
-                portraitImages: []
+                ]
             },
             {
                 title: 'Paris, France',
@@ -387,14 +381,6 @@
                     'static/assets/Paris%20Sep,%202026/DSC01517.JPG',
                     'static/assets/Paris%20Sep,%202026/DSC01519.JPG',
                     'static/assets/Paris%20Sep,%202026/DSC01534.JPG'
-                ],
-                portraitImages: [
-                    'static/assets/Paris%20Sep,%202026/26Sep_Paris,%20France1.JPG',
-                    'static/assets/Paris%20Sep,%202026/DSC01445.JPG',
-                    'static/assets/Paris%20Sep,%202026/DSC01453.JPG',
-                    'static/assets/Paris%20Sep,%202026/DSC01468.JPG',
-                    'static/assets/Paris%20Sep,%202026/DSC01527.JPG',
-                    'static/assets/Paris%20Sep,%202026/DSC01540.JPG'
                 ]
             }
         ];
@@ -432,18 +418,9 @@
                 return img;
             };
 
-            if (!work.portraitImages) {
-                galleryGrid.classList.add('gallery-regular');
-                work.images.forEach(image => galleryGrid.appendChild(createGalleryImage(image)));
-            } else {
-                galleryGrid.classList.remove('gallery-regular');
-                const portraitSet = new Set(work.portraitImages);
-                const portraits = work.images.filter(image => portraitSet.has(image));
-                const landscapes = work.images.filter(image => !portraitSet.has(image));
-                [...portraits, ...landscapes].forEach(image => {
-                    galleryGrid.appendChild(createGalleryImage(image));
-                });
-            }
+            work.images.forEach(image => {
+                galleryGrid.appendChild(createGalleryImage(image));
+            });
 
             lightbox.classList.add('open');
             lightbox.setAttribute('aria-hidden', 'false');

@@ -4,10 +4,10 @@ const section_names = ['home', 'education', 'awards', 'experience', 'publication
 const languages = ['en', 'zh-CN', 'zh-TW', 'fr'];
 const default_language = 'en';
 const ui_translations = {
-    en: { nav: { home: 'HOME', education: 'EDUCATION', awards: 'AWARDS', experience: 'EXPERIENCE', publications: 'RESEARCH', academic: 'ACADEMIC', media: 'MEDIA' }, footer: { github: 'Github', license: 'License' }, switchLanguage: 'Switch language' },
-    'zh-CN': { nav: { home: '首页', education: '教育经历', awards: '获奖经历', experience: '工作经历', publications: '研究', academic: '学术活动', media: '媒体报道' }, footer: { github: 'Github', license: '许可证' }, switchLanguage: '切换语言' },
-    'zh-TW': { nav: { home: '首頁', education: '教育經歷', awards: '獲獎經歷', experience: '工作經歷', publications: '研究', academic: '學術活動', media: '媒體報導' }, footer: { github: 'Github', license: '授權條款' }, switchLanguage: '切換語言' },
-    fr: { nav: { home: 'ACCUEIL', education: 'FORMATION', awards: 'DISTINCTIONS', experience: 'EXPÉRIENCE', publications: 'RECHERCHE', academic: 'ACTIVITÉS ACADÉMIQUES', media: 'MÉDIAS' }, footer: { github: 'Github', license: 'Licence' }, switchLanguage: 'Changer de langue' }
+    en: { nav: { home: 'HOME', education: 'EDUCATION', awards: 'AWARDS', experience: 'EXPERIENCE', publications: 'RESEARCH', academic: 'ACADEMIC', photographing: 'PHOTOGRAPHY', media: 'MEDIA' }, footer: { github: 'Github', license: 'License' }, switchLanguage: 'Switch language' },
+    'zh-CN': { nav: { home: '首页', education: '教育经历', awards: '获奖经历', experience: '工作经历', publications: '研究', academic: '学术活动', photographing: '摄影作品', media: '媒体报道' }, footer: { github: 'Github', license: '许可证' }, switchLanguage: '切换语言' },
+    'zh-TW': { nav: { home: '首頁', education: '教育經歷', awards: '獲獎經歷', experience: '工作經歷', publications: '研究', academic: '學術活動', photographing: '攝影作品', media: '媒體報導' }, footer: { github: 'Github', license: '授權條款' }, switchLanguage: '切換語言' },
+    fr: { nav: { home: 'ACCUEIL', education: 'FORMATION', awards: 'DISTINCTIONS', experience: 'EXPÉRIENCE', publications: 'RECHERCHE', academic: 'ACTIVITÉS ACADÉMIQUES', photographing: 'PHOTOGRAPHIE', media: 'MÉDIAS' }, footer: { github: 'Github', license: 'Licence' }, switchLanguage: 'Changer de langue' }
 };
 const requested_language = new URLSearchParams(window.location.search).get('lang');
 let current_language = requested_language || localStorage.getItem('homepage-language') || default_language;

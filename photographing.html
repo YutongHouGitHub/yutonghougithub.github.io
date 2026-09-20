@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Photography portfolio" />
+    <meta name="author" content="Yutong HOU" />
+    <title>Photography | Yutong HOU</title>
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
+    <link type="text/css" href="static/css/main.css" rel="stylesheet" />
+    <style>
+        body {
+            background: #f7f7f7;
+        }
+        .photo-page {
+            max-width: 1100px;
+            margin: 90px auto 60px;
+            padding: 0 20px;
+        }
+        .photo-header {
+            margin-bottom: 32px;
+            text-align: center;
+        }
+        .photo-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 18px;
+        }
+        .photo-card {
+            background: white;
+            border-radius: 14px;
+            overflow: hidden;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+        }
+        .photo-card img {
+            display: block;
+            width: 100%;
+            height: 260px;
+            object-fit: cover;
+        }
+        .photo-caption {
+            padding: 12px 14px 14px;
+            font-size: 0.95rem;
+            color: #4b5563;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 18px;
+            color: #1f2937;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="photo-page">
+        <a href="index.html" class="back-link"><i class="bi bi-arrow-left"></i> Back to homepage</a>
+        <div class="photo-header">
+            <h1>Photography</h1>
+            <p>I enjoy capturing moments in everyday life, travel, and nature through the lens.</p>
+        </div>
+
+        <div class="photo-grid">
+            <div class="photo-card">
+                <img src="static/assets/img/photo.jpg" alt="photography work 1" />
+                <div class="photo-caption">Portrait / travel light</div>
+            </div>
+            <div class="photo-card">
+                <img src="static/assets/img/banw.jpg" alt="photography work 2" />
+                <div class="photo-caption">City / atmosphere</div>
+            </div>
+            <div class="photo-card">
+                <img src="static/assets/img/photo.jpg" alt="photography work 3" />
+                <div class="photo-caption">Street / daily life</div>
+            </div>
+            <div class="photo-card">
+                <img src="static/assets/img/banw.jpg" alt="photography work 4" />
+                <div class="photo-caption">Landscape / sky</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
